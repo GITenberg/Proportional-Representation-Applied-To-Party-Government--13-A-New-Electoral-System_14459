@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5528
     wikipedia: http://adbonline.anu.edu.au/biogs/A070119b.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14459#Proportional-Representation-Applied-To-Party-Government--13-A-New-Electoral-System
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
 identifiers:
