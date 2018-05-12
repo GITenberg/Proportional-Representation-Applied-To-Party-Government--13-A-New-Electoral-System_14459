@@ -1,0 +1,34 @@
+_repo: Proportional-Representation-Applied-To-Party-Government--13-A-New-Electoral-System_14459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ashworth, H. P. C.
+    gutenberg_agent_id: '5529'
+    url: http://www.gutenberg.org/2009/agents/5529
+  - agent_name: Ashworth, T. R. (Thomas Ramsden)
+    alias: Ashworth, Thomas Ramsden
+    birthdate: 1864
+    deathdate: 1935
+    gutenberg_agent_id: '5528'
+    url: http://www.gutenberg.org/2009/agents/5528
+    wikipedia: http://adbonline.anu.edu.au/biogs/A070119b.htm
+description: ''
+gutenberg_issued: '2004-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14459'
+  lccn: '01025126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Proportional representation'
+- !lcsh 'Representative government and representation'
+- !lcc 'JF'
+title: "Proportional Representation Applied To Party Government\r\nA New Electoral\
+  \ System"
+url: http://www.gutenberg.org/ebooks/14459
